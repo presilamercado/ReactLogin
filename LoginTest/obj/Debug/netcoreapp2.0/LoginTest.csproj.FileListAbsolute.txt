@@ -1,0 +1,10 @@
+/Users/presila/Projects/LoginTest/LoginTest/bin/Debug/netcoreapp2.0/LoginTest.deps.json
+/Users/presila/Projects/LoginTest/LoginTest/bin/Debug/netcoreapp2.0/LoginTest.runtimeconfig.json
+/Users/presila/Projects/LoginTest/LoginTest/bin/Debug/netcoreapp2.0/LoginTest.runtimeconfig.dev.json
+/Users/presila/Projects/LoginTest/LoginTest/bin/Debug/netcoreapp2.0/LoginTest.dll
+/Users/presila/Projects/LoginTest/LoginTest/bin/Debug/netcoreapp2.0/LoginTest.pdb
+/Users/presila/Projects/LoginTest/LoginTest/obj/Debug/netcoreapp2.0/LoginTest.csproj.CoreCompileInputs.cache
+/Users/presila/Projects/LoginTest/LoginTest/obj/Debug/netcoreapp2.0/LoginTest.AssemblyInfoInputs.cache
+/Users/presila/Projects/LoginTest/LoginTest/obj/Debug/netcoreapp2.0/LoginTest.AssemblyInfo.cs
+/Users/presila/Projects/LoginTest/LoginTest/obj/Debug/netcoreapp2.0/LoginTest.dll
+/Users/presila/Projects/LoginTest/LoginTest/obj/Debug/netcoreapp2.0/LoginTest.pdb

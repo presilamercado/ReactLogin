@@ -1,0 +1,48 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SampleTest\SampleTest\bin\Debug\AutoItX3.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SampleTest\SampleTest\bin\Debug\AutoItX3_x64.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SampleTest\SampleTest\bin\Debug\LoginTest.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SampleTest\SampleTest\bin\Debug\LoginTest.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SampleTest\SampleTest\bin\Debug\LoginTest.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SampleTest\SampleTest\bin\Debug\AutoItX3.Assembly.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SampleTest\SampleTest\bin\Debug\Excel.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SampleTest\SampleTest\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SampleTest\SampleTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SampleTest\SampleTest\bin\Debug\nunit.framework.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SampleTest\SampleTest\bin\Debug\System.ValueTuple.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SampleTest\SampleTest\bin\Debug\WebDriver.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SampleTest\SampleTest\bin\Debug\WebDriver.Support.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SampleTest\SampleTest\bin\Debug\AutoItX3.Assembly.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SampleTest\SampleTest\bin\Debug\Excel.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SampleTest\SampleTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SampleTest\SampleTest\bin\Debug\nunit.framework.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SampleTest\SampleTest\bin\Debug\WebDriver.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SampleTest\SampleTest\bin\Debug\WebDriver.Support.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SampleTest\SampleTest\obj\Debug\LoginTest.Config.TurnUpResource.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SampleTest\SampleTest\obj\Debug\LoginTest.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SampleTest\SampleTest\obj\Debug\LoginTest.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SampleTest\SampleTest\obj\Debug\LoginTest.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SampleTest\SampleTest\obj\Debug\LoginTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SampleTest\SampleTest\bin\Debug\LoginTest.exe.config
+C:\Users\Administrator\Desktop\SampleTest\SampleTest\obj\Debug\LoginTest.exe
+C:\Users\Administrator\Desktop\SampleTest\SampleTest\obj\Debug\LoginTest.pdb
+C:\Users\Administrator\Desktop\SampleTest\SampleTest\bin\Debug\AutoItX3.dll
+C:\Users\Administrator\Desktop\SampleTest\SampleTest\bin\Debug\AutoItX3_x64.dll
+C:\Users\Administrator\Desktop\SampleTest\SampleTest\bin\Debug\LoginTest.exe
+C:\Users\Administrator\Desktop\SampleTest\SampleTest\bin\Debug\LoginTest.pdb
+C:\Users\Administrator\Desktop\SampleTest\SampleTest\bin\Debug\AutoItX3.Assembly.dll
+C:\Users\Administrator\Desktop\SampleTest\SampleTest\bin\Debug\Excel.dll
+C:\Users\Administrator\Desktop\SampleTest\SampleTest\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\SampleTest\SampleTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\SampleTest\SampleTest\bin\Debug\nunit.framework.dll
+C:\Users\Administrator\Desktop\SampleTest\SampleTest\bin\Debug\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\SampleTest\SampleTest\bin\Debug\WebDriver.dll
+C:\Users\Administrator\Desktop\SampleTest\SampleTest\bin\Debug\WebDriver.Support.dll
+C:\Users\Administrator\Desktop\SampleTest\SampleTest\bin\Debug\AutoItX3.Assembly.xml
+C:\Users\Administrator\Desktop\SampleTest\SampleTest\bin\Debug\Excel.pdb
+C:\Users\Administrator\Desktop\SampleTest\SampleTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\SampleTest\SampleTest\bin\Debug\nunit.framework.xml
+C:\Users\Administrator\Desktop\SampleTest\SampleTest\bin\Debug\WebDriver.xml
+C:\Users\Administrator\Desktop\SampleTest\SampleTest\bin\Debug\WebDriver.Support.xml
+C:\Users\Administrator\Desktop\SampleTest\SampleTest\obj\Debug\LoginTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SampleTest\SampleTest\obj\Debug\LoginTest.Config.TurnUpResource.resources
+C:\Users\Administrator\Desktop\SampleTest\SampleTest\obj\Debug\LoginTest.csproj.GenerateResource.Cache
